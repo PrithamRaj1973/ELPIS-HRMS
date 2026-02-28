@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ELPIS.HRMS.API.props" />
+</Project>

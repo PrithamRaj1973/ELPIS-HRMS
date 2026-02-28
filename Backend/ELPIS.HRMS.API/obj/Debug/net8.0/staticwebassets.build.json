@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9xFAyTSHj8A8kNi2imRRQNouI8pqSM4tRrW4Ntwb/5s=",
+  "Source": "ELPIS.HRMS.API",
+  "BasePath": "_content/ELPIS.HRMS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

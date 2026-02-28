@@ -1,0 +1,6 @@
+@ELPIS.HRMS.API_HostAddress = http://localhost:5015
+
+GET {{ELPIS.HRMS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
